@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tron_runner", "tron_runner.csproj", "{DF29BE70-E6D5-B556-0690-E4DA2DD3BA8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tron_runner.Editor", "tron_runner.Editor.csproj", "{D232CA4B-8AF5-4E6A-319E-1BE0D526F738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF29BE70-E6D5-B556-0690-E4DA2DD3BA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF29BE70-E6D5-B556-0690-E4DA2DD3BA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF29BE70-E6D5-B556-0690-E4DA2DD3BA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF29BE70-E6D5-B556-0690-E4DA2DD3BA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D232CA4B-8AF5-4E6A-319E-1BE0D526F738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D232CA4B-8AF5-4E6A-319E-1BE0D526F738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D232CA4B-8AF5-4E6A-319E-1BE0D526F738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D232CA4B-8AF5-4E6A-319E-1BE0D526F738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

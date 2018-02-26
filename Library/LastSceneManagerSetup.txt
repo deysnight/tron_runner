@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/test_area.unity
+- path: Assets/tempp/test_area.unity
   isLoaded: 1
   isActive: 1
