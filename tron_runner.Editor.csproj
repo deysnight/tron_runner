@@ -123,7 +123,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\tempp\Editor\MKGlowFreeEditor.cs" />
+    <Compile Include="Assets\Editor\MKGlowFreeEditor.cs" />
     <Compile Include="Assets\tempp\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
   </ItemGroup>
   <ItemGroup>
